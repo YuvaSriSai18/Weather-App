@@ -14,7 +14,7 @@ body{
 .cityInput{
     padding: 10px;
     font-size: 25px;
-    font-weight: 100;
+    font-weight: 300;
     margin: 10px;
     width: 280px;
     border: none;
@@ -23,7 +23,7 @@ body{
 }
 button[type="submit"]{
     padding: 10px;
-    font-weight: 100;
+    font-weight: 300;
     font-size: 20px;
     background-color: hsl(122,39%,50%);
     color: #fff;
